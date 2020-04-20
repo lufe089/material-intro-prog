@@ -1,0 +1,2 @@
+# Función recursiva que permita sumar los dígitos de un número entero positivo.   
+# Ejemplo: Si escribe 100, su programa debe dar 1, si escribe 101 su programa debe dar 2, si se escribe 385 será 16 porque (3+8+5=16).

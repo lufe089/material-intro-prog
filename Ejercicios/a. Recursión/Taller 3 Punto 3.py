@@ -1,0 +1,1 @@
+# Función recursiva que permita convertir un número entero positivo en representación decimal a su correspondiente representación binaria. Imprima cada digito binario.  Por ejemplo la representación binaria del número 28 es 11100. Tip: use la división entera y el mod. 
